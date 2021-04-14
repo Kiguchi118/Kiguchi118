@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kiguchi118&count_private=true&theme=chartreuse-dark)
 
 <!--
 **Kiguchi118/Kiguchi118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
